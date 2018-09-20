@@ -23,11 +23,11 @@ body {
 
 .maincontainer{
     position: absolute;
-    left: 10%;
+    left: 25%;
     top: 15%;
     border-color: white;
     border-radius: 12px;
-    width: 80%;
+    width: 50%;
     height: 85%;
     text-align: center;
     background-color: black;
